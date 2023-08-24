@@ -16,20 +16,19 @@ Este projeto é um exemplo simples de integração do Keycloak com uma aplicaç�
 ## Instalação e Uso 🛠️
 
 1. Clone o repositório:
-```bash
+
 git clone https://github.com/Gardene10/keycloack-firstTime
+
 cd keycloack-firstTime
 
 Instale as dependências:
 
-bash
-Copy code
 go mod download
 
 Inicie a aplicação:
-bash
-Copy code
+
 go run main.go
+
 Acesse a aplicação em: http://localhost:8081
 
 Contribuição 💬
